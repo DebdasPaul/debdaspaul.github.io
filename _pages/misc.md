@@ -15,7 +15,7 @@ author_profile: true
 [PDF](https://debdaspaul.github.io/files/primality.pdf)
 
 <br>
-<b>[Re-usability and Robustness of Python and Java programs](https://debdaspaul.github.io/files/reusability.pdf)</b> <br> 
+<b>Re-usability and Robustness of Python and Java programs</b> <br> 
 <b>Paul, D</b>, Vartak, S. 2012.
 
 ## Abstract
