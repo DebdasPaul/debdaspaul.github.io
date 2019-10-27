@@ -18,3 +18,5 @@ References:
 [1] P. Erdös, “On some extremal problems in graph theory”, Israel Journal of Mathematics 3 (2) (1965) 113–116.
 
 [2] E. Estrada, J. A. Rodríguez-Velázquez, “Spectral measures of bipartivity in complex networks”, Physical Review E 72 (4) (2005) 046105.
+
+[Slides](https://debdaspaul.github.io/files/WSGCO_2018_DP.pdf)
