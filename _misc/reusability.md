@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /misc/
+permalink: /misc/reusability
 author_profile: true
 redirect_from:
   - /resume
