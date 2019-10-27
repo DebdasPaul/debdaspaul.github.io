@@ -9,7 +9,6 @@ redirect_from:
 {% include base_path %}
 
 # Thesis
-
 <br>
 <b></b> <br> 
 <b>Paul, D.</b>, 2018. Understanding the mechanisms of robustness in intracellular protein signalling cascades and gene expression, Doctoral dissertation, University of Stuttgart, Germany. [PDF](https://elib.uni-stuttgart.de/bitstream/11682/10523/1/Paul-Debdas-Doctoral-Thesis-IST-2019.pdf) 
