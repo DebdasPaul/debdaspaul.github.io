@@ -1,12 +1,9 @@
 ---
-layout: archive
+title: "Primality Testing: A Review"
+collection: talks
+type: "Talk"
 permalink: /misc/primality
-author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 <br>
 <b>Primality Testing: A Review</b> <br> 
