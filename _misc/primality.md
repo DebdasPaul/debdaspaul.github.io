@@ -1,7 +1,7 @@
 ---
 title: "Primality Testing: A Review"
-collection: talks
-type: "Talk"
+collection: misc
+type: "Unpublished works"
 permalink: /misc/primality
 ---
 
