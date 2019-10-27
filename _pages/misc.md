@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Unpublished works
 
 <br>
 <b>Primality Testing: A Review</b> <br> 
@@ -33,7 +34,7 @@ redirect_from:
 <b>Paul, D</b>, 2015.
 
 ## Abstract
-<p> Andrey Kolmogorov is known to be the father of modern probability theory. In this talk, we explore different theorems formulated by Kolmogorov spanning the fields of statistics, probability theory, and functional analysis.
+<p> Andrey Kolmogorov is known to be the father of modern probability theory. In this short tutorial, we explore different theorems formulated by Kolmogorov spanning the fields of statistics, probability theory, and functional analysis.
  </p>
  
 [Slides](https://debdaspaul.github.io/files/kolmogorovs_thm.pdf)
