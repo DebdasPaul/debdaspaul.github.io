@@ -9,5 +9,5 @@ author_profile: true
 <b>Paul, D</b>. 2012.
 
 <br>
-<b>[Re-usability and Robustness of Python and Java programs](https://debdaspaul.github.io/files/reusability)</b> <br> 
+<b>[Re-usability and Robustness of Python and Java programs](https://debdaspaul.github.io/files/reusability.pdf)</b> <br> 
 <b>Paul, D</b>, Vartak, S. 2012.
