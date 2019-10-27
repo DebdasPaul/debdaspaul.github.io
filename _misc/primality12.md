@@ -1,11 +1,7 @@
 ---
 title: "Primality Testing: A Review"
-collection: talks
-type: "Talk"
-permalink: /misc/primality
-venue: "WGSCO2018, University of Aveiro, Portugal"
-date: 2018-01-25
-location: "Aveiro, Portugal"
+permalink: /misc/primality12
+
 ---
 
 <b>Paul, D.</b>, 2012.
