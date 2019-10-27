@@ -1,8 +1,12 @@
 ---
-title: "Unpublished works"
+layout: archive
 permalink: /misc/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 <br>
 <b>Primality Testing: A Review</b> <br> 
