@@ -3,7 +3,7 @@ layout: archive
 permalink: /misc/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume 
 ---
 
 {% include base_path %}
