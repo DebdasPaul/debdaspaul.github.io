@@ -38,4 +38,15 @@ redirect_from:
  </p>
  
 [Slides](https://debdaspaul.github.io/files/kolmogorovs_thm.pdf)
+
+<br>
+<b>Stochastic processes: translate maths to sense</b> <br> 
+<b>Paul, D</b>, 2015.
+
+## Abstract
+<p>This short tutorial aims at provinding an overview about stochastic processes and stochastic calculus.
+ </p>
+ 
+[Slides](https://debdaspaul.github.io/files/Debdas_Paul_Stochastic Processes_2015.pdf)
+ 
  
