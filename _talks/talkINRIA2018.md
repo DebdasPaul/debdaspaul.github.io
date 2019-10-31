@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Stochastic sequestration dynamics can act as intrinsic noise filter in signaling network motifs"
 collection: talks
 type: "Talk"
 permalink: /talks/talkINRIA2018
