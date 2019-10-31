@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/paulD-JTB-2018
 Journal: "Journal of Theoretical Biology"
 date:  14-10-2018
-citation: '<b>Paul, D</b>. and Radde, N., 2016.The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs. <i>Journal of Theoretical Biology</i> 455, pp.86-96.'
+citation: '<b>Paul, D</b>. and Radde, N., 2018.The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs. <i>Journal of Theoretical Biology</i> 455, pp.86-96.'
 --- 
 
 ## Abstract
