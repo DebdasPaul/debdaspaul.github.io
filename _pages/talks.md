@@ -8,3 +8,8 @@ author_profile: true
 
 <b>Paul, D</b>. 2018. [WGSCO2018](http://wgsco2018.web.ua.pt/), University of Aveiro, Portugal
 
+<br>
+<b>[Stochastic sequestration dynamics can act as intrinsic noise filter in signaling network motifs](https://debdaspaul.github.io/talks/talkINRIA2018)</b> <br> 
+
+<b>Paul, D</b>. 2018. Lifeware, Computational Systems Biology and Optimization, Inria Saclay - Île-de-France research centre.
+
