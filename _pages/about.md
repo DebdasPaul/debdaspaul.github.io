@@ -15,6 +15,6 @@ Before, I have completed my [doctorate](https://elib.uni-stuttgart.de/handle/116
 
 Besides, being a computational and systems biologist, I am also a computer science engineer by my previous background.
 
-In my academic career so far, I have cultivated some varied research interests that includes **Bayesian inference**, **uncertainty quantification**, **machine learning**, **computational and systems biology**, **modeling and simulation of physical systems**, and **spectral graph theory**. In the coming years, I would like to direct my research more towards building and analyse efficient machine learning algorithms to solve real-world problems.
+In my academic career so far, I have cultivated some varied research interests that includes **Bayesian inference**, **uncertainty quantification**, **machine learning**, **computational and systems biology**, **modeling and simulation of physical systems**, and **spectral graph theory**. In the coming years, I am looking forward to pursue an industrial career developing machine learning algorithms and combining them with AI  (for e.g., deep learning with symbolic reasoning) to make our society smarter and sustainable.
 
 My [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is <b>3</b>.
