@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DP"
 title_separator          : "-"
-name                     : &name "Debdas Paul"
+name                     : &name "Dr.-Ing. Debdas Paul"
 description              : &description "computer science, computational biology, machine learning, modeling & simulation"
 url                      : https://debdaspaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
