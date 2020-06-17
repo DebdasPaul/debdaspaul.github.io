@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the [Max-Planck Institute for Biophysical Chemistry (MPI-BPC)](https://www.mpibpc.mpg.de/en), Göttingen in the group lead by [Dr. Juliane Liepe](https://www.mpibpc.mpg.de/15662258/cv_liepe).
+I am a postdoctoral researcher at the University Hospital, Tübingen in the group lead by [Prof. Dr. Manfred Claassen](https://imsb.ethz.ch/research/claassen/people/manfredclaassen.html).
+My project broadly aims at discovery of biomarkers for cancer immunotherapy using machine learning and deep learning approaches funded by the **Swiss National Science Foundation**(SNSF) as a part of the [Sinergia](http://www.snf.ch/en/funding/programmes/sinergia/Pages/default.aspx) consortium.
 
-At MPI, my work primarly involves building software pipelines and tools based on machine learning techniques for systematic analysis of large-scale mass-spectrometric data for quantification, prediction, and identification of peptides.
+
+Previosuly, I was a postdoctoral researcher at the [Max-Planck Institute for Biophysical Chemistry (MPI-BPC)](https://www.mpibpc.mpg.de/en), Göttingen in the group lead by [Dr. Juliane Liepe](https://www.mpibpc.mpg.de/15662258/cv_liepe).
+
+At MPI, I primarily involved in building software pipelines and tools based on machine learning techniques for systematic analysis of large-scale mass-spectrometric data for quantification, prediction, and identification of peptides.
 
 Before, I have completed my [doctorate](https://elib.uni-stuttgart.de/handle/11682/10523) (<i><b>magna cum laude</b></i>) in systems biology from the [University of Stuttgart](https://www.uni-stuttgart.de/), Germany under [Prof. Dr. rer. nat. Nicole Radde](https://www.ist.uni-stuttgart.de/de/institut/team/Radde-00007/).
 
