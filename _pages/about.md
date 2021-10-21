@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in **Clinical bioinformatics & Machine learning in translational single-cell biology group** lead by [Prof. Dr. Manfred Claassen](https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2147).
+I am a postdoctoral researcher in **Clinical bioinformatics & Machine learning in translational single-cell biology** group lead by [Prof. Dr. Manfred Claassen](https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2147). My work aims at machine learning based integration of high-dimensional cytometry and radiomics data to identify and monitor cancer-immunotherapy responses. 
 
-My project broadly aims at discovery of biomarkers for cancer immunotherapy using machine and deep learning approaches. The project is funded by the **Swiss National Science Foundation** (SNSF) as a part of the [Sinergia](http://www.snf.ch/en/funding/programmes/sinergia/Pages/default.aspx) consortium.
+I started my academic journey as a computer science engineer working primarily on the topic of spectral graph theory. Later on, I moved to the field of Systems Biology to explore how system properties emerge from collective interactions of the
+components.
 
-
-My [Erdös number](https://mathscinet.ams.org/mathscinet/collaborationDistance.html) is <b>3</b>.
+I hold a Dr.-Ing. degree in systems biology from the department of **Systems Theory and Automatic Control**, University of Stuttgart, Germany (2019), and having expertise in mechanistic modelling, nonlinear dynamics, uncertainty analysis in biochemical systems. 
