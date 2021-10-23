@@ -42,7 +42,7 @@ author:
   name             : "Dr.-Ing. Debdas Paul"
   avatar           : "dp.jpeg"
   bio              : "Postdoctoral researcher<br>Computer science engineer<br>Computational biologist"
-  location         : "Liegnitzer Str. 15, 72072 Tübingen"
+  #location         : "Liegnitzer Str. 15, 72072 Tübingen"
   googlescholar    : "https://scholar.google.com/citations?user=iTagYRkAAAAJ&hl=en"
   email            : "paul.debdas@gmail.com"
   github           : "DebdasPaul"
