@@ -13,7 +13,7 @@ author_profile: true
 <b>[Bipartite subgraphs and the signless Laplacian matrix](https://debdaspaul.github.io/publications/paulD-AADM-2011)</b> <br> 
 Kirkland, S. and <b>Paul, D.</b>, 2011. Bipartite subgraphs and the signless Laplacian matrix. <i>Applicable Analysis and Discrete Mathematics</i> 5(1), pp.1-13.
 
-### systems biology, systems theory, stochastic simulation, biomimetics
+### Mathematical modeling, systems biology, systems theory, stochastic simulation, biomimetics
 
 <br>
 <b>[The role of stochastic sequestration dynamics for intrinsic noise filtering in signaling network motifs](https://debdaspaul.github.io/publications/paulD-JTB-2018)</b> <br> 
