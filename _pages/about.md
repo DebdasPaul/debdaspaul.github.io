@@ -14,3 +14,6 @@ I started my academic career as a **computer science engineer** working primaril
 I hold a **Dr.-Ing.** degree (Magna cum laude) from the [**Institute for Systems Theory and Automatic Control (IST)**](https://www.ist.uni-stuttgart.de/), University of Stuttgart, Germany (2019). My doctoral dissertation explores the origin of robustness and its characterization in biological signaling networks as well as in gene regulation.
 
 During my academic journey so far, I have cultivated various fields/sub-fields that include complex networks, dynamical systems, mathemtical modeling, systems biology, biomimetics, machine and deep learning in single-cell biology.
+
+
+[CV](https://debdaspaul.github.io/files/resume_debdas_paul.pdf)
