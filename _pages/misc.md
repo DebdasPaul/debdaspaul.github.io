@@ -50,7 +50,7 @@ redirect_from:
 [Slides](https://debdaspaul.github.io/files/Debdas_Paul_Stochastic Processes_2015.pdf)
 
 <br>
-<b></b>Ollivier-Ricci curvature for Graphs<br> 
+<b></b>Ollivier-Ricci curvature for Graphs</b><br> 
 <b>Paul, D</b>, 2015. 
 
 ## Abstract
@@ -61,5 +61,3 @@ transportation problem)
  </p>
  
 [PDF](https://debdaspaul.github.io/files/Ricci_curvature_fo_graphs.pdf)
- 
-  
