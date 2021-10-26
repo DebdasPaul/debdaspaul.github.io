@@ -48,5 +48,18 @@ redirect_from:
  </p>
  
 [Slides](https://debdaspaul.github.io/files/Debdas_Paul_Stochastic Processes_2015.pdf)
+
+<br>
+<b></b> <br> 
+<b>Paul, D</b>, 2015. 
+
+## Abstract
+<p>This report introduces the concept of Ollivier-Ricci curvature (a coarse version of usual Ricci
+curvature on manifolds) for graphs derived from Optimal
+Transportation problem due to Monge and Kantorovich (Monge-Kantorovich
+transportation problem)
+ </p>
  
+[Slides](https://debdaspaul.github.io/files/Ricci_curvature_fo_graphs.pdf)
  
+  
