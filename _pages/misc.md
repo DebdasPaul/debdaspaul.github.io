@@ -50,7 +50,7 @@ redirect_from:
 [Slides](https://debdaspaul.github.io/files/Debdas_Paul_Stochastic Processes_2015.pdf)
 
 <br>
-<b></b> <br> 
+<b></b>Ollivier-Ricci curvature for Graphs<br> 
 <b>Paul, D</b>, 2015. 
 
 ## Abstract
@@ -60,6 +60,6 @@ Transportation problem due to Monge and Kantorovich (Monge-Kantorovich
 transportation problem)
  </p>
  
-[Slides](https://debdaspaul.github.io/files/Ricci_curvature_fo_graphs.pdf)
+[PDF](https://debdaspaul.github.io/files/Ricci_curvature_fo_graphs.pdf)
  
   
