@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – 1.89.1 
+> आनो भद्राः क्रतवो यन्तु विश्वत: ऋग्वेद – 1.89.1 
 
 I am a computational biologist/bioinformatician at the Hans-Knöll-Institut in Jena, Germany.
 
