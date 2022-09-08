@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 > आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – 1.89.1 
+
 > Let noble thoughts come to us from all directions.
+
 > -Rig Veda 1.89.1
 
-Welcome to my personal homepage!
 
 I am a computational biologist/bioinformatician at the Hans-Knöll-Institut in Jena, Germany.
 
