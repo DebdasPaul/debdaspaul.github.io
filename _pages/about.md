@@ -11,7 +11,7 @@ redirect_from:
 
 I am a computational biologist/bioinformatician at the Hans-Knöll-Institut in Jena, Germany.
 
-I started my academic career as a computer science engineer working primarily on the application of spectral graph theory in complex systems. Moved by the complexities of natural designs, I continued my journey in the field of Systems Biology, where I explored the mechanisms behind robust and reliable signal propagation in biological signalling networks using concepts/approaches from dynamical systems theory, Markov Chain Monte Carlo, stochastic analysis and rule-based modeling. In my research, I like to combine data-driven approaches with mechanistic modelling whenever possible.
+I started my academic career as a computer science engineer working primarily on the application of spectral graph theory in complex systems. Moved by the complexities of natural designs, I continued my journey in the field of Systems Biology, where I explored the mechanisms behind robust and reliable signal propagation in biological signalling networks using concepts/approaches from dynamical systems theory, Markov Chain Monte Carlo, stochastic analysis and rule-based modeling. In my research, I like to combine data-driven approaches with mechanistic modelling.
 
 Apart from systems biology, I possess a great interest in quantum mechanics, cognitive science, and human history.
 
