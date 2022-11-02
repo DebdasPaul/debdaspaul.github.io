@@ -13,7 +13,7 @@ I am a computer science engineer currently employed as scientific staff at the H
 
  As a computer science engineer working primarily on the application of spectral graph theory in complex systems. Moved by the complexities of natural designs, I continued my journey in the field of Systems Biology, where I explored the mechanisms behind robust and reliable signal propagation in biological signalling networks using concepts/approaches from dynamical systems theory, Markov Chain Monte Carlo, stochastic analysis and rule-based modeling. In my research, I like to combine data-driven approaches with mechanistic modelling.
 
-Apart from systems biology, I possess a great interest in quantum mechanics, cognitive science, and human history.
+Apart from computer science and systems biology, I possess a great interest in quantum mechanics, cognitive science, and human history.
 
 During my free time, I enjoy reading, photography, hiking, and travelling. 
 
