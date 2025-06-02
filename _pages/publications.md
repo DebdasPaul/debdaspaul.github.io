@@ -3,6 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### applied machine learning, clinical bioiformatics, autoimmune disease, SLE
+
+<br>
+<b>[Expansion of extrafollicular B and T cell subsets in childhood-onset systemic lupus erythematosus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10641733/)</b> <br> 
+Baxter, R.M., Wang, C.S., Garcia-Perez, J.E., Kong, D.S., Coleman, B.M., Larchenko, V., Schuyler, R.P., Jackson, C., Ghosh, T., Rudra, P. and <b>Paul, D.</b>, 2023. Expansion of extrafollicular B and T cell subsets in childhood-onset systemic lupus erythematosus.<i>Frontiers in Immunology</i> 14.
+
+
 ### spectral graph theory, complex networks
 
 <br>
