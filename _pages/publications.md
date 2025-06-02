@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>[Expansion of extrafollicular B and T cell subsets in childhood-onset systemic lupus erythematosus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10641733/)</b> <br> 
 
-Baxter RM, Wang CS, Garcia-Perez JE, Kong DS, Coleman BM, Larchenko V, Schuyler RP, Jackson C, Ghosh T, Rudra P, <b>Paul, D.</b>, Claassen M, Rochford R, Cambier JC, Ghosh D, Cooper JC, Smith MJ, Hsieh EWY. Expansion of extrafollicular B and T cell subsets in childhood-onset systemic lupus erythematosus. <i>Front Immunol.</i> 2023 Oct 27;14:1208282. doi: 10.3389/fimmu.2023.1208282. PMID: 37965329; PMCID: PMC10641733.
+Baxter RM, Wang CS, Garcia-Perez JE, Kong DS, Coleman BM, Larchenko V, Schuyler RP, Jackson C, Ghosh T, Rudra P, <b>Paul, D.</b>, Claassen M, Rochford R, Cambier JC, Ghosh D, Cooper JC, Smith MJ, Hsieh EWY. Expansion of extrafollicular B and T cell subsets in childhood-onset systemic lupus erythematosus. <i>Front Immunol.</i> 2023 Oct 27.
 
 
 ### spectral graph theory, complex networks
