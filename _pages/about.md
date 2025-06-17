@@ -13,7 +13,7 @@ Welcome to my homepage!
 
 I am a postdoctoral scientist at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/) in Jena, Germany.
 
-I was trained as computer science engineer back in India. During my training in computer science, my research primarily centered on the analysis of bipartite structures using techniques from spectral graph theory. 
+I was trained as computer science engineer back in India. During my training in computer science, my research primarily centered on the analysis of bipartite structures using techniques from spectral graph theory. This results into two independent collaborations with [Prof. Steve Kirkland](https://server.math.umanitoba.ca/~kirkland/) and with [Prof. Dragan Stevanovic](https://www.linkedin.com/in/dragan-stevanovic-2222977/)
 
 My fascination with the complexities of natural systems, developed during my master’s studies, motivated me to transition into the field of Systems Biology. I pursued a second master's degree through a joint program between Aalto University (Finland) and KTH Royal Institute of Technology (Sweden), where I was introduced to the application of computer science and mathematics in solving biological problems. I subsequently completed my master’s thesis in theoretical biological physics under the supervision of [Prof. Stefan Engblom](https://stefanengblom.github.io//) in the Department of Scientific Computing at Uppsala University, Sweden. There I studied parameter inference for stochastic chemical kinetics using the [chemical master equation](https://en.wikipedia.org/wiki/Master_equation).
 
