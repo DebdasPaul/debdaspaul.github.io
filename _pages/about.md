@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am a postdoctoral scientist at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/) in [Prof. Alessandro Cellerino's](https://www.leibniz-fli.de/research/associated-research-groups/cellerino) group. I develop and apply machine learning models to understand the biology of aging. Before, joining the Leibniz Institute on Aging, I worked with [Dr. Juliane Liepe](https://www.mpinat.mpg.de/de/liepe) at MPI-NAT in Göttingen and [Prof. Dr. Manfred Classen](https://claassenlab.github.io/people/manfred-claassen/) at the University Hospital in Tübingen, Germany.
+I am a postdoctoral scientist at the [Leibniz Institute on Aging](https://www.leibniz-fli.de/) in [Prof. Alessandro Cellerino's](https://www.leibniz-fli.de/research/associated-research-groups/cellerino) group. I develop and apply machine learning models to understand the biology of aging. Before joining the Leibniz Institute on Aging, I worked with [Dr. Juliane Liepe](https://www.mpinat.mpg.de/de/liepe) at MPI-NAT in Göttingen and [Prof. Dr. Manfred Classen](https://claassenlab.github.io/people/manfred-claassen/) at the University Hospital in Tübingen, Germany.
 
 I studied computer science and engineering. As student of computer science, I worked on the application of spectral graph theory- especially on the bipartite structures. This resulted into two independent collaborations with [Prof. Steve Kirkland](https://server.math.umanitoba.ca/~kirkland/) and with [Prof. Dragan Stevanovic](https://www.linkedin.com/in/dragan-stevanovic-2222977/)
 
