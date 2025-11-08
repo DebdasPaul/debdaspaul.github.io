@@ -23,3 +23,5 @@ My research focused on uncovering the mechanisms underlying robust and reliable 
 
 During my free time, I enjoy reading, photography, hiking, and traveling. 
 
+My Erdös number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=933309&target=189017) 
+
