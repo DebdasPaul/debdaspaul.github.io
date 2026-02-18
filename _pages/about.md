@@ -26,4 +26,3 @@ During my free time, I enjoy reading, photography, hiking, and traveling.
 My Erdös number is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=933309&target=189017) 
 
 My [CV](files/DEBDAS_PAUL_CV.pdf) [in PDF]
-
